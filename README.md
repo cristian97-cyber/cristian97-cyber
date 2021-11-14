@@ -2,6 +2,8 @@
 <h3 align="center">A Software Engineer from Italy</h3>
 
 - 🎓 I’m currently taking a **Master's Degree in Computer Science at University of Salerno**
+- 🌱 I’m currently learning all about **React**
+- 📫 How to reach me **cristianesposito961@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
