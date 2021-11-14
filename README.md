@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A Software Engineer from Italy</h3>
 
-- �🎓 I’m currently taking a **Master's Degree in Computer Science at University of Salerno**
+- 🎓 I’m currently taking a **Master's Degree in Computer Science at University of Salerno**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
