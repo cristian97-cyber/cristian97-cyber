@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A Software Engineer from Italy</h3>
 
-- 👨‍💻 I'm currently working for <a href="https://www.noontalents.com/">NoonTalents</a>
+- 👨‍💻 I'm currently working for **<a href="https://www.noontalents.com/">NoonTalents</a>**
 - 🎓 I’m taking a **Master's Degree in Computer Science at <a href="https://www.unisa.it/">University of Salerno</a>**
 - 📫 How to reach me **cristianesposito961@gmail.com**
 
