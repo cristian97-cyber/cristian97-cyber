@@ -3,7 +3,7 @@
 
 - 👨‍💻 I'm currently working for **<a href="https://www.noontalents.com/">NoonTalents</a>**
 - 🎓 I’m taking a **Master's Degree in Computer Science at <a href="https://www.unisa.it/">University of Salerno</a>**
-- 📫 How to reach me **cristianesposito961@gmail.com**
+- 📫 How to reach me: **cristianesposito961@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
