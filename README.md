@@ -19,6 +19,9 @@
    <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS link" width="40" height="40"/> </a>
    <a href="https://sass-lang.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass link" width="40" height="40"/> </a>
    <a href="https://getbootstrap.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap link" width="40" height="40"/> </a>
+   <a href="https://tailwindcss.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS link" width="40" height="40"/> </a>
+   <a href="https://primeng.dev"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/primeng/primeng-original.svg" alt="PrimeNG link" width="40" height="40"/> </a>
+   <a href="https://mui.com/material-ui"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI link" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Libraries and frameworks:</h3>
