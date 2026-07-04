@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Cristian</h1>
+<h1 align="center">Hi 👋🏻, I'm Cristian</h1>
 <h3 align="center">A Software Engineer from Italy</h3>
 
-- 👨‍💻 I'm currently working for **<a href="https://www2.deloitte.com">Deloitte</a>**
+- 🧑🏻‍💻 I'm currently working for **<a href="https://www2.deloitte.com">Deloitte</a>**
 - 🎓 I have a **Master's Degree in Computer Science from the <a href="https://www.unisa.it/">University of Salerno</a>**
-- 📫 How to reach me: **cristianesposito961@gmail.com**
+- 📧 How to reach me: **cristianesposito961@gmail.com**
+- 🌐 My **<a href="https://cristianesposito.dev/">Website</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
