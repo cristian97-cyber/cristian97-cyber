@@ -14,8 +14,8 @@
 <h3 align="left">Front-End:</h3>
 <p align="left">
    <a href="https://angular.dev"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular link" width="40" height="40"/> </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> </a>
-   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+   <a href="https://react.dev"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React link" width="40" height="40"/> </a>
+   <a href="https://html.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML link" width="40" height="40"/> </a>
    <a href="https://learn.microsoft.com/it-it/dotnet/csharp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
    <a href="https://docs.oracle.com/en/java/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
    <a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
