@@ -13,7 +13,7 @@
 
 <h3 align="left">Front-End:</h3>
 <p align="left">
-   <a href="https://angular.dev"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular link" width="40" height="40" /> </a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular link" width="40" height="40" />
    <a href="https://react.dev"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React link" width="40" height="40"/> </a>
    <a href="https://html.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML link" width="40" height="40"/> </a>
    <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS link" width="40" height="40"/> </a>
