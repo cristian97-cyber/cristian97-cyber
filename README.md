@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin icon" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/cristian-esposito-36b3a118a" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin link" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Programming languages:</h3>
