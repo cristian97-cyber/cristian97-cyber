@@ -11,9 +11,9 @@
    <a href="https://www.linkedin.com/in/cristian-esposito-36b3a118a"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin link" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Programming languages:</h3>
+<h3 align="left">Front-End:</h3>
 <p align="left">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
+   <a href="https://angular.dev"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular link" width="40" height="40"/> </a>
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> </a>
    <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
    <a href="https://learn.microsoft.com/it-it/dotnet/csharp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
