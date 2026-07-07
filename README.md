@@ -40,13 +40,13 @@
    <a href="https://www.java.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java link" width="40" height="40"/> </a>
    <a href="https://dotnet.microsoft.com/it-it/languages/csharp"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# link" width="40" height="40"/> </a>
    <a href="https://www.c-language.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C link" width="40" height="40"/> </a>
-   <a href="https://www.python.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python link" width="40" height="40"/> </a>
+   <a href="https://www.python.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python link" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Other:</h3>
+<h3 align="left">Tools & DevOps:</h3>
 <p align="left">
-   <a href="https://git-scm.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-   <a href="https://www.mysql.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+   <a href="https://git-scm.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git link" width="40" height="40"/> </a>
+   <a href="https://www.jenkins.io"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins link" width="40" height="40"/> </a>
    <a href="https://www.postgresql.org/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
    <a href="https://www.mongodb.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
 </p>
