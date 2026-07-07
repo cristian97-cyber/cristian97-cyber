@@ -48,5 +48,5 @@
    <a href="https://git-scm.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git link" width="40" height="40"/> </a>
    <a href="https://www.jenkins.io"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins link" width="40" height="40"/> </a>
    <a href="https://www.atlassian.com/it/software/jira"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira link" width="40" height="40"/> </a>
-   <a href="https://claude.com/it/product/claude-code"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+   <a href="https://claude.com/it/product/claude-code"> <img src="images/claude-code.svg" alt="Claude Code link" width="40" height="40"/> </a>
 </p>
