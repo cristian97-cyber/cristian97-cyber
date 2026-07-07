@@ -49,4 +49,5 @@
    <a href="https://www.jenkins.io"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins link" width="40" height="40"/> </a>
    <a href="https://www.atlassian.com/it/software/jira"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira link" width="40" height="40"/> </a>
    <a href="https://claude.com/it/product/claude-code"> <img src="images/claude-code.svg" alt="Claude Code link" width="40" height="40"/> </a>
+   <a href="https://openai.com/it-IT/codex"> <img src="images/codex.svg" alt="Codex link" width="40" height="40"/> </a>
 </p>
