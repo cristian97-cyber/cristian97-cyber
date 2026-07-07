@@ -39,6 +39,8 @@
    <a href="https://www.typescriptlang.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript link" width="40" height="40"/> </a>
    <a href="https://www.java.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java link" width="40" height="40"/> </a>
    <a href="https://dotnet.microsoft.com/it-it/languages/csharp"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# link" width="40" height="40"/> </a>
+   <a href="https://www.c-language.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C link" width="40" height="40"/> </a>
+   <a href="https://www.python.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python link" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Other:</h3>
