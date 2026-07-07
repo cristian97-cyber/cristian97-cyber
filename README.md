@@ -36,9 +36,9 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
    <a href="https://www.javascript.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript link" width="40" height="40"/> </a>
-   <a href="https://www.typescriptlang.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-   <a href="https://sass-lang.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a>
-   <a href="https://getbootstrap.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
+   <a href="https://www.typescriptlang.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript link" width="40" height="40"/> </a>
+   <a href="https://www.java.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java link" width="40" height="40"/> </a>
+   <a href="https://dotnet.microsoft.com/it-it/languages/csharp"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# link" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Other:</h3>
